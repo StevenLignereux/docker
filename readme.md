@@ -2,4 +2,4 @@
 
 ## Scripts 
 
-Script d'installation de docker [ici](premier-pas.sh)
+Script d'installation de docker pour fedora linux [ici](premier-pas.sh)
